@@ -9,7 +9,7 @@ media_folder: "site/static/images"
 public_folder: "/images"
 
 collections:
-  -name: "config"
+  - name: "config"
     label: "Config"
     files:
       - label: "Site"
