@@ -16,8 +16,10 @@ collections:
         name: "site"
         file: "site/config.toml"
         fields:
-           # - {label: Title, name: title, widget: string}
-           # - {label: Intro, name: intro, widget: markdown}
+           - {label: Site Title, name: title, widget: string}
+           - {label: Base URL, name: baseurl, widget: string}
+           - {label: Language Code, name: languageCode, widget: string}
+           - {label: Language, name: languageLang, widget: string}
            - label: Menu
              name: menu
              widget: object
