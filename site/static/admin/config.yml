@@ -20,16 +20,17 @@ collections:
            # - {label: Intro, name: intro, widget: markdown}
            - label: Menu
              name: menu
-             widget: list
+             widget: object
              fields:
               - label: Navbar
                 name: main
                 widget: list
                 fields:
-                  - {label: Identifier, name: idenfitier, widget: string}
+                  - {label: Identifier, name: identifier, widget: string}
                   - {label: Name, name: name, widget: string}
                   - {label: URL, name: url, widget: string}
                   - {label: Weight, name: weight, widget: number}
+
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
     folder: "site/content" # The path to the folder where the documents are stored
