@@ -11,12 +11,14 @@
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body>
 
   {{ block "header" . }}{{ partial "header" . }}{{end}}
-  
+
   <div class="container">
     {{ block "main" . }}{{end}}
   </div>

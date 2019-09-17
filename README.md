@@ -1,18 +1,21 @@
-# Victor Hugo
+# Sheffood website
 
-**A Hugo boilerplate for creating truly epic websites**
+Sheffood is a static website, built using [Hugo](https://gohugo.io/) and [Webpack](https://webpack.js.org/) as the asset pipeline.
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline.
-
-Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling.
+Sheffood is setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling.
 
 This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
 
+## To do
+
+- [ ] Remove Netlify identity widget from default template, and only load on homepage & CMS page.
+
 ## Usage
 
-### :exclamation: Prerequisites
+### Prerequisites
 
-You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed in order to use Victor Hugo.
+- Node >10
+- NPM 
 
 Next step, clone this repository and run:
 
@@ -20,17 +23,11 @@ Next step, clone this repository and run:
 npm install
 ```
 
-This will take some time and will install all packages necessary to run Victor Hugo and its tasks.
+This will take some time and will install all packages necessary to run Sheffood.
 
 ### :construction_worker: Development
 
-While developing your website, use:
-
-```bash
-npm start
-```
-
-or for developing your website with `hugo server --buildDrafts --buildFuture`, use:
+While developing, use:
 
 ```bash
 npm run preview
@@ -102,15 +99,8 @@ You can access the environment variable inside the theme files with `getenv "NOD
 
 All tasks starting with _build_ set the environment variable to `production` - the other will set it to `development`.
 
-## Deploying to Netlify
+## Credit
 
-- Push your clone to your own GitHub repository.
-- [Create a new site on Netlify](https://app.netlify.com/start) and link the repository.
-
-Now Netlify will build and deploy your site whenever you push to git.
-
-You can also click this button:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
+This is based on the [Victor Hugo](https://github.com/netlify-templates/victor-hugo) boilerplate.
 
 ## Enjoy!! 😸
