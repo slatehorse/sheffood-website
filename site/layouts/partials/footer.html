@@ -1,0 +1,28 @@
+<footer class="footer container-fluid pt-3 mt-5 text-white">
+  <div class="row">
+    <div class="col-sm">
+      <h2>Find us</h2>
+      ShefFood<br>
+      57-59 Club Garden Road<br>
+      Sheffield<br>
+      S11 8BU<br>
+    </div>
+    <div class="col-sm">
+      <h2>Contact us</h2>
+      <a target="_blank" rel="noopener noreferrer" href="mailto:{{ $.Site.Params.contact_email }}">{{ $.Site.Params.contact_email }}</a>
+    </div>
+    <div class="col-sm-4">
+      <h2>Sustainable Food Cities</h2>
+      <img src="images/SustainableFoodCity.png" class="img-fluid float-left" width="80px" alt="Sustainable Food Cities logo"/>
+      <div >ShefFood is a member of the Sustainable Food Cities partnership program.</div>
+    </div>
+    <div class="col-sm-2 mt-2">
+      <img src="images/sheffood_text_all_white.png" class="img-fluid" width="300px"alt="Sheffood logo"/>
+    </div>
+  </div>
+
+  <div class="row mt-4">
+    <div class="col text-center">
+      &copy; ShefFood {{ now.Format "2006"}}. All rights reserved.
+  </div>
+</footer>

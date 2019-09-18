@@ -8,6 +8,9 @@ title = "My new Victor-Hugo site"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+[params]
+  contact_email = "info@sheffood.org.uk"
+
 [menu]
 
   [[menu.main]]
