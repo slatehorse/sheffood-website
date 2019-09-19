@@ -14,10 +14,9 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 - [ ] Add analytics
 - [ ] Review accessibility
 - [ ] Favicon
-- [ ] Page titles
 - [ ] Review `head` matter
 - [ ] Navbar JS to expand menu on small screens
-- [ ] Navbar background colour & height
+- [ ] Navbar text weight
 - [ ] Footer - resize images
 - [ ] Responsive images
 - [ ] Homepage – hero statement
