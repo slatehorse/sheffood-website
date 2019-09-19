@@ -1,28 +1,30 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container">
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
 
-  <a class="navbar-brand" href="#">
-    <img src="/images/sheffood_logo.png" height="30" alt="">
-  </a>
+    <a class="navbar-brand" href="#">
+      <img src="/images/sheffood_logo.png" height="30" alt="">
+    </a>
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      {{ $currentPage := . }}
-      {{ range .Site.Menus.main }}
-        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-          <a class="nav-link" href="{{ .URL }}">
-            {{ .Pre }}
-            {{ if $currentPage.IsMenuCurrent "main" . }}
-              <span class="sr-only">(current)</span>
-            {{ end }}
-            <span>{{ .Name }}</span>
-          </a>
-        </li>
-      {{ end }}
-    </ul>
-</div>
-</nav>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+          <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+            <a class="nav-link" href="{{ .URL }}">
+              {{ .Pre }}
+              {{ if $currentPage.IsMenuCurrent "main" . }}
+                <span class="sr-only">(current)</span>
+              {{ end }}
+              <span>{{ .Name }}</span>
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </nav>
+</header>

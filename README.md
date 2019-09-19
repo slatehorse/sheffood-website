@@ -10,7 +10,6 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 
 - [ ] Remove Netlify identity widget from default template, and only load on homepage & CMS page.
 - [ ] Add menu frontmatter to Netlify CMS page template
-- [ ] Add reader view
 - [ ] Check headers
 - [ ] Add analytics
 - [ ] Review accessibility
@@ -18,6 +17,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 - [ ] Page titles
 - [ ] Review `head` matter
 - [ ] Navbar JS to expand menu on small screens
+- [ ] Navbar background colour & height
 - [ ] Footer - resize images
 - [ ] Responsive images
 - [ ] Homepage – hero statement
