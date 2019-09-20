@@ -15,15 +15,12 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 - [ ] Review accessibility
 - [ ] Favicon
 - [ ] Review `head` matter
-- [ ] Navbar JS to expand menu on small screens
-- [ ] Navbar text weight
 - [ ] Footer - resize images
 - [ ] Responsive images
 - [ ] Homepage – hero statement
 - [ ] Homepage - sheffield food system – build from Hugo menu system? This is the most valuable part of the Gatsby site (responsive, potentially interactive)
 - [ ] Homepage - twitter feed
-- [ ] All except homepage– tomato header image with overlaid title
-- [ ] About – hero statement
+- [ ] Homepage – no hero tomato
 - [ ] About – two-col layout?
 - [ ] Contact page - two-col layout
 - [ ] Contact page - social links

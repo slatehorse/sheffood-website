@@ -1,6 +1,11 @@
+
+.jumbotron-bg-tomato {
+    background: url("/images/agriculture-blurred-background-close-up.jpg") no-repeat center center; 
+    background-size: 100%;
+}
+
 .footer {
   /* expand the footer on short pages so there's no white underneath */
-  height: 100%;
   background-color: $sheffood_grey;
 }
 

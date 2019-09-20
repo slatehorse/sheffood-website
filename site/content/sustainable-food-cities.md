@@ -1,6 +1,7 @@
 ---
 title: Sustainable food cities
 date: 2018-11-15T02:02:50.000Z
+layout: hero
 menu: 
     main:
         weight: 30

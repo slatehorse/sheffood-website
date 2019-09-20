@@ -1,20 +1,32 @@
 {{ define "main" }}
 
-<h1>Hugo with Webpack, Sass, and PostCSS</h1>
+<div class="jumbotron jumbotron-fluid jumbotron-bg-tomato">
+  <div class="container text-center">
+    <h1 class="display-3 text-white font-weight-bolder">{{- .Title -}}</h1></p>
+  </div>
+</div>
 
-<h3>Hooray 🎉 - you've built this with <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!</h3>
+{{/* Twitter feed */}}
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-lg-6">
+      {{/* Twitter embed from https://publish.twitter.com/?dnt=1&query=https%3A%2F%2Ftwitter.com%2Fsheffoodsocial&widget=Timeline */}}
+      <a class="twitter-timeline" data-height="600" data-dnt="true" href="https://twitter.com/sheffoodsocial?ref_src=twsrc%5Etfw">Tweets by sheffoodsocial</a>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+    </div>
+  </div>
+</div>
 
-<a href="{{ "/tech" | relURL }}">Check out the tech</a>
-
+{{/* Netlify Identity redirector. Only necessary on homepage & /admin/ */}}
 <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
+if (window.netlifyIdentity) {
+  window.netlifyIdentity.on("init", (user) => {
+    if (!user) {
+      window.netlifyIdentity.on("login", () => {
+        document.location.href = "/admin/";
+      });
+    }
+  });
+}
 </script>
 {{ end }}

@@ -1,0 +1,15 @@
+{{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
+<div class="jumbotron jumbotron-fluid jumbotron-bg-tomato">
+  <div class="container text-center">
+    <h1 class="display-3 text-white font-weight-bolder">{{- .Title -}}</h1></p>
+  </div>
+</div>
+
+<div class="container">
+  <article class="content">
+    <main>
+      {{- .Content -}}
+    </main>
+  </article>
+</div>
+{{ end }}

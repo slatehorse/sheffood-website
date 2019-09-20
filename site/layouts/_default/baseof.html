@@ -5,13 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-  <title>
-    {{ with .Title }}
-      {{ . }}
-    {{ else }}
-      {{ $.Site.Title }}
-    {{ end }}
-  </title>
+  <title>{{- .Title -}}</title>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
@@ -25,9 +19,7 @@
 
   {{ block "header" . }}{{ partial "header" . }}{{end}}
 
-  <div class="container">
-    {{ block "main" . }}{{end}}
-  </div>
+  {{ block "main" . }}{{end}}
   
   {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
