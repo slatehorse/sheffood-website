@@ -1,7 +1,16 @@
 
-.jumbotron-bg-tomato {
+.bg-tomato {
     background: url("/images/agriculture-blurred-background-close-up.jpg") no-repeat center center; 
-    background-size: 100%;
+    background-size: cover;
+}
+
+.bg-beets {
+    background: url("/images/agriculture-basket-beets.jpg") no-repeat center center; 
+    background-size: cover;
+}
+
+.bg-fixed {
+    background-attachment: fixed;
 }
 
 .footer {

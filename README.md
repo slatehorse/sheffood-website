@@ -8,27 +8,32 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 
 ## To do
 
-- [ ] Remove Netlify identity widget from default template, and only load on homepage & CMS page.
-- [ ] Add menu frontmatter to Netlify CMS page template
-- [ ] Check headers
 - [ ] Add analytics
-- [ ] Review accessibility
 - [ ] Favicon
-- [ ] Review `head` matter
-- [ ] Footer - resize images
-- [ ] Responsive images
+
 - [ ] Homepage – hero statement
 - [ ] Homepage - sheffield food system – build from Hugo menu system? This is the most valuable part of the Gatsby site (responsive, potentially interactive)
-- [ ] Homepage - twitter feed
-- [ ] Homepage – no hero tomato
+
 - [ ] About – two-col layout?
+
 - [ ] Contact page - two-col layout
 - [ ] Contact page - social links
 - [ ] Contact page - contact form
 - [ ] Contact page - newsletter signup
+
 - [ ] Events – list in CMS
+
 - [ ] Sustainable cities – two col header section
 - [ ] Sustainable cities – add image (check Netlify editor)
+
+### To do stretch items
+
+- [ ] Add menu frontmatter to Netlify CMS page template
+- [ ] Footer - resize images
+- [ ] Review accessibility
+- [ ] Review `head` matter
+- [ ] Remove Netlify identity widget from default template, and only load on homepage & CMS page.
+- [ ] Responsive images
 
 ## Usage
 

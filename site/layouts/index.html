@@ -1,18 +1,30 @@
 {{ define "main" }}
 
-<div class="jumbotron jumbotron-fluid jumbotron-bg-tomato">
+<div class="jumbotron jumbotron-fluid bg-tomato bg-fixed">
   <div class="container text-center">
-    <h1 class="display-3 text-white font-weight-bolder">{{- .Title -}}</h1></p>
+    <div class="row justify-content-center mt-5">
+      <div class="col-lg-6">
+        <img src="images/sheffood_text_all_white.png" class="img-fluid" width="400px" alt="Sheffood logo"/>
+
+        <p class="text-white mt-3">
+          {{ $.Site.Params.homepage_leadin }}</p>
+        </p>
+
+        <a href="{{ $.Site.Params.forum_url }}" class="btn btn-lg btn-outline-light text-white mt-3">Join the conversation</a>
+      </div>
+    </div>
   </div>
 </div>
 
 {{/* Twitter feed */}}
-<div class="container">
-  <div class="row justify-content-center">
-    <div class="col-lg-6">
-      {{/* Twitter embed from https://publish.twitter.com/?dnt=1&query=https%3A%2F%2Ftwitter.com%2Fsheffoodsocial&widget=Timeline */}}
-      <a class="twitter-timeline" data-height="600" data-dnt="true" href="https://twitter.com/sheffoodsocial?ref_src=twsrc%5Etfw">Tweets by sheffoodsocial</a>
-      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<div class="bg-beets bg-fixed">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 pt-5 pb-5">
+        {{/* Twitter embed from https://publish.twitter.com/?dnt=1&query=https%3A%2F%2Ftwitter.com%2Fsheffoodsocial&widget=Timeline */}}
+        <a class="twitter-timeline" data-height="600" data-dnt="true" href="https://twitter.com/sheffoodsocial?ref_src=twsrc%5Etfw">Tweets by sheffoodsocial</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+      </div>
     </div>
   </div>
 </div>
