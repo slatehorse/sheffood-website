@@ -9,14 +9,12 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 ## To do
 
 - [ ] Add analytics
-- [ ] Favicon
 
-- [ ] Homepage – hero statement
 - [ ] Homepage - sheffield food system – build from Hugo menu system? This is the most valuable part of the Gatsby site (responsive, potentially interactive)
 
 - [ ] About – two-col layout?
 
-- [ ] Contact page - two-col layout
+- [ ] Contact page - two-col layout?
 - [ ] Contact page - social links
 - [ ] Contact page - contact form
 - [ ] Contact page - newsletter signup
