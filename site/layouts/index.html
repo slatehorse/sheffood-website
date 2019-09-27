@@ -1,20 +1,98 @@
 {{ define "main" }}
-
 <div class="jumbotron jumbotron-fluid bg-tomato bg-fixed">
   <div class="container text-center">
     <div class="row justify-content-center mt-5">
       <div class="col-lg-6">
         <img src="images/sheffood_text_all_white.png" class="img-fluid" width="400px" alt="Sheffood logo"/>
-
         <p class="text-white mt-3">
-          {{ $.Site.Params.homepage_leadin }}</p>
-        </p>
-
-        <a href="{{ $.Site.Params.forum_url }}" class="btn btn-lg btn-outline-light text-white mt-3">Join the conversation</a>
-      </div>
+        {{ $.Site.Params.homepage_leadin }}</p>
+      </p>
+      <a href="{{ $.Site.Params.forum_url }}" class="btn btn-lg btn-outline-light text-white mt-3">Join the conversation</a>
     </div>
   </div>
 </div>
+</div>
+
+{{/* Sheffield Food System diagram */}}
+<section class="container bubble-diagram mb-5 text-center">
+  <div class="central-bubble">
+    <h1>Sheffield Food System</h1>
+    <div>
+      <div>
+        <div>
+          <h2>Production</h2>
+          <ul class="items-lavender">
+            <li>Labour</li>
+            <li>Soil, Water</li>
+            <li>Equipment</li>
+            <li>Energy</li>
+            <li>Lands</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <div>
+          <h2>Distribution</h2>
+          <ul class="items-mint">
+            <li>Retail</li>
+            <li>Wholesale</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <div>
+          <h2>Food Waste Management</h2>
+          <ul class="items-purple">
+            <li>Food Pantries</li>
+            <li>Schools</li>
+            <li>Homes</li>
+            <li>Grocers</li>
+            <li>Hospitals</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <div>
+          <h2>Processing</h2>
+          <ul class="items-coral">
+            <li>Value-Added Products</li>
+            <li>Packaging</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <div>
+          <h2>Citizens</h2>
+          <ul class="items-blue">
+            <li>Food Rescue</li>
+            <li>Energy</li>
+            <li>Compost</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <div>
+          <h2>Policy</h2>
+          <ul class="items-khaki">
+            <li>Procurement</li>
+            <li>Planning</li>
+            <li>Training &amp; Skills</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 {{/* Twitter feed */}}
 <div class="bg-beets bg-fixed">
@@ -23,22 +101,22 @@
       <div class="col-lg-6 pt-5 pb-5">
         {{/* Twitter embed from https://publish.twitter.com/?dnt=1&query=https%3A%2F%2Ftwitter.com%2Fsheffoodsocial&widget=Timeline */}}
         <a class="twitter-timeline" data-height="600" data-dnt="true" href="https://twitter.com/sheffoodsocial?ref_src=twsrc%5Etfw">Tweets by sheffoodsocial</a>
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+        </script>
       </div>
     </div>
   </div>
 </div>
-
 {{/* Netlify Identity redirector. Only necessary on homepage & /admin/ */}}
 <script>
-if (window.netlifyIdentity) {
-  window.netlifyIdentity.on("init", (user) => {
-    if (!user) {
-      window.netlifyIdentity.on("login", () => {
-        document.location.href = "/admin/";
-      });
-    }
-  });
-}
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
 </script>
 {{ end }}

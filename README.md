@@ -19,10 +19,12 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 - [ ] Contact page - contact form
 - [ ] Contact page - newsletter signup
 
+- [ ] Sustainable cities – two col header section – lead para & image
+- [ ] Sustainable cities – add image (check Netlify editor)
+
 - [ ] Events – list in CMS
 
-- [ ] Sustainable cities – two col header section
-- [ ] Sustainable cities – add image (check Netlify editor)
+
 
 ### To do stretch items
 
