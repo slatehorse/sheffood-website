@@ -17,30 +17,30 @@
     padding: 10px;
   }
 
-  .items-lavender>li {
+  .bubble-lavender, .bubble-lavender>ul>li {
     background-color: #e5e1ee;
   }
 
-  .items-mint>li {
+  .bubble-mint, .bubble-mint>ul>li {
     background-color: #b8d8d8;
   }
 
-  .items-purple>li {
+  .bubble-purple, .bubble-purple>ul>li {
     background-color: #564256;
     color: white;
   }
 
-  .items-coral>li {
+  .bubble-coral, .bubble-coral>ul>li {
     background-color: #fa7268;
     color: white;
   }
 
-  .items-blue>li {
+  .bubble-blue, .bubble-blue>ul>li {
     background-color: #084c61;
     color: white;
   }
 
-  .items-khaki>li {
+  .bubble-khaki, .bubble-khaki>ul>li {
     background-color: #948379;
     color: white;
   }
@@ -88,13 +88,13 @@
       position: relative;
     }
 
-    .bubble-left>li {
+    .bubble-left>ul>li,.bubble-side-left>ul>li {
       left:-130px;
       text-align: left;
       padding-left: 20px
     }
 
-    .bubble-right>li {
+    .bubble-right>ul>li, .bubble-side-right>ul>li {
       left:130px;
       text-align: right;
       padding-right: 20px
@@ -113,16 +113,48 @@
     }
 
     .outer-bubble {
-      background-color: #e5e1ee;
-
       height:250px;
       width:250px;
 
       align-items: center;
       border-radius: 50%;
+    }
 
+
+
+    // X options
+    .bubble-side-left {   
+      right: 85%;
+    }
+
+    .bubble-side-right {   
+      left: 85%;
+    }
+
+    .bubble-left {   
+      // nothing needed
+      // this is just here for symmetry ☯️
+    }
+
+    .bubble-right {
+      left: 55%;
+    }
+
+    // Y options
+    .button-top {
       position: absolute;
       transform: translateY(-50%);
+    }
+
+    .bubble-middle {
+      position: absolute;
+      top: 125px;
+    }
+
+    .bubble-bottom {
+      position: absolute;
+      bottom: 0;
+      transform: translateY(50%);
     }
   }
 }
