@@ -6,7 +6,5 @@ layout: hero
 menu: 
     main:
         weight: 40
-    footer:
-        weight: 40
 ---
 TODO Events

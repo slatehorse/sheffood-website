@@ -10,20 +10,18 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 
 - [ ] Add analytics
 
-- [ ] Homepage - sheffield food system – build from Hugo menu system? This is the most valuable part of the Gatsby site (responsive, potentially interactive)
-
-- [ ] About – two-col layout?
-
-- [ ] Contact page - two-col layout?
 - [ ] Contact page - social links
 - [ ] Contact page - contact form
-- [ ] Contact page - newsletter signup
 
-- [ ] Sustainable cities – two col header section – lead para & image
 - [ ] Sustainable cities – add image (check Netlify editor)
 
 - [ ] Events – list in CMS
 
+## To check with the team
+
+- [ ] 2-column layout change in About/Contact/Sustainable cities
+- [ ] Need for Lead para?
+- [ ] Newsletter sign-up – preferably not on contact page, and not as delayed popover...
 
 
 ### To do stretch items
