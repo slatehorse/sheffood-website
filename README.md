@@ -8,10 +8,16 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 
 ## To do
 
+- [ ] README
+    - contact form
+    - ID
+    - editing - GH
+    - editing Netlify
+
 - [ ] Add analytics
 
 - [ ] Contact page - social links
-- [ ] Contact page - contact form
+- [ ] Contact page - test form
 
 - [ ] Sustainable cities – add image (check Netlify editor)
 
@@ -22,6 +28,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 - [ ] 2-column layout change in About/Contact/Sustainable cities
 - [ ] Need for Lead para?
 - [ ] Newsletter sign-up – preferably not on contact page, and not as delayed popover...
+- [ ] Form submission destination
 
 
 ### To do stretch items
