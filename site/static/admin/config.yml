@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: sheffood-initial # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
 
 # Enables publishing workflow. Comment this line out to publish immediately
 # publish_mode: editorial_workflow

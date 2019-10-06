@@ -9,7 +9,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 ## To do
 
 - [ ] README
-    - contact form
+    - contact form (Review submissions at https://app.netlify.com/sites/friendly-keller-6bc5e3/forms/5d985d459d5c5600089a3b04)
     - ID
     - editing - GH
     - editing Netlify
@@ -17,9 +17,6 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 - [ ] Add analytics
 
 - [ ] Contact page - social links
-- [ ] Contact page - test form
-
-- [ ] Sustainable cities – add image (check Netlify editor)
 
 - [ ] Events – list in CMS
 
