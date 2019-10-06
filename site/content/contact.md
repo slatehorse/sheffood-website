@@ -25,7 +25,7 @@ There is the shared vision and strategic commitment to develop the environmental
     <textarea class="form-control" id="message" name="message" rows="4"></textarea>
   </div>
   <div class="form-group form-check">
-    <input type="checkbox" class="form-check-input" id="add_to_newsletter">
+    <input type="checkbox" class="form-check-input" id="add_to_newsletter" name="subscribe_to_newsletter">
     <label class="form-check-label" for="add_to_newsletter">Subscribe to newsletter?</label>
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
