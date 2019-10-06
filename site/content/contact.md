@@ -13,16 +13,16 @@ There is the shared vision and strategic commitment to develop the environmental
 <form name="contact" method="POST" data-netlify="true" action="/pages/form_submitted">
   <div class="form-group">
     <label for="name"">Your name</label>
-    <input type="text" required class="form-control" id="name" placeholder="Enter your name">
+    <input type="text" required class="form-control" id="name" name="name" placeholder="Enter your name">
   </div>
   <div class="form-group">
     <label for="email">Email address</label>
-    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter your email address">
+    <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="Enter your email address">
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
   </div>
   <div class="form-group">
     <label for="message">Your message</label>
-    <textarea class="form-control" id="message" rows="4"></textarea>
+    <textarea class="form-control" id="message" name="message" rows="4"></textarea>
   </div>
   <div class="form-group form-check">
     <input type="checkbox" class="form-check-input" id="add_to_newsletter">
