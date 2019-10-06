@@ -1,24 +1,18 @@
 ---
 title: Sustainable food cities
 date: 2018-11-15T02:02:50.000Z
-layout: hero
-lead: "The diversity of both long established and newly emerging food and drink related activities taking place across Sheffield is entering an exciting new phase of development as the City continues to work towards wider recognition as a \"Sustainable Food City\""
-menu: 
-    main:
-        weight: 30
+draft: false
 ---
-
-TODO Sustainable Food City Logo
-
+![Sheffield is a network member of Sustainable Food Cities](/images/sustainablefoodcity_400px.png "Sheffield is a network member of Sustainable Food Cities")
 
 ## The Challenge
 
 The food we rely upon every day is a product of a complex, interdependent and globalised supply chain dominated by relatively few multinational corporations. They maintain this unsustainable system by exploiting a monopoly of money and power to influence governments, damage the environment and maximise profits out of producers and consumers. The evidence shows this unsustainable system contributes to (and is vulnerable to) the impacts of climate change, depletion of resources such as oil, phosphorus, soil and water, pressures of population growth and geo-political instability such as austerity and post-Brexit uncertainty. As a consequence, the UK and Sheffield food system is impacted in a range of ways, including for example:
 
-- Food Sovereignty – the UK currently produces less than 60% of the food we consume, relies on the EU for nearly 30% of food imports and holds only 3-5 days of food supplies in reserve.
-- Food Waste – it is estimated that UK households waste 7 million tonnes of food and drink each year, costing an annual average £470 per household. Most of this waste could be avoided.
-- Health Inequality & Food – access to healthy food is a key factor determining the extent of health inequality across different parts of Sheffield, with life expectancy gaps and adult obesity rates amongst the highest in England.
-- Poverty & Food – over the past 5 years many food banks have opened in Sheffield, with benefit delays, low income and benefit changes being the most common reasons for accessing food bank services.
+* Food Sovereignty – the UK currently produces less than 60% of the food we consume, relies on the EU for nearly 30% of food imports and holds only 3-5 days of food supplies in reserve.
+* Food Waste – it is estimated that UK households waste 7 million tonnes of food and drink each year, costing an annual average £470 per household. Most of this waste could be avoided.
+* Health Inequality & Food – access to healthy food is a key factor determining the extent of health inequality across different parts of Sheffield, with life expectancy gaps and adult obesity rates amongst the highest in England.
+* Poverty & Food – over the past 5 years many food banks have opened in Sheffield, with benefit delays, low income and benefit changes being the most common reasons for accessing food bank services.
 
 Developing a sustainable food system for Sheffield is a huge challenge. But thankfully - true to their character – the people of Sheffield are still rising to this challenge. Since the mid-1980s there have been progressive food plans, strategies and policies developed on an understanding that local government, the NHS, universities, business and Sheffield communities must all work together in partnership to create the lasting change needed. This important work continues - today and into the future.
 
