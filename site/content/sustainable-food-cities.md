@@ -1,11 +1,7 @@
 ---
 title: Sustainable food cities
-date: 2018-11-15T02:02:50.000Z
+date: 2019-05-01T01:02:50.000Z
 draft: false
-lead: "The diversity of both long established and newly emerging food and drink related activities taking place across Sheffield is entering an exciting new phase of development as the City continues to work towards wider recognition as a \"Sustainable Food City\""
-menu: 
-    main:
-        weight: 30
 ---
 ![Sheffield is a network member of Sustainable Food Cities](/images/sustainablefoodcity_400px.png "Sheffield is a network member of Sustainable Food Cities")
 
