@@ -1,7 +1,22 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
-<article class="content">
-  <main>
-    {{- .Content -}}
-  </main>
-</article>
+<div class="jumbotron jumbotron-fluid bg-fixed bg-tomato">
+  <div class="container text-center">
+    <h1 class="display-3 text-white font-weight-bolder">{{- .Title -}}</h1></p>
+  </div>
+</div>
+
+<div class="container">
+  <article class="content">
+    <main>
+      {{ if isset .Params "lead" }}
+      <p class="lead">
+        {{- .Params.Lead -}}
+      </p>
+      <hr/>
+      {{ end }}
+
+      {{- .Content -}}
+    </main>
+  </article>
+</div>
 {{ end }}

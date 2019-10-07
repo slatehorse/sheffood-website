@@ -14,7 +14,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
     - editing - GH
     - editing Netlify
 
-- [ ] Add analytics
+- [ ] Fix netlify editor wiping sustainable cities frontmatter
 
 - [ ] Contact page - social links
 
@@ -30,6 +30,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 
 ### To do stretch items
 
+- [ ] Add analytics
 - [ ] Add menu frontmatter to Netlify CMS page template
 - [ ] Footer - resize images
 - [ ] Review accessibility

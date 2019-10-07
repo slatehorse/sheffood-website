@@ -2,7 +2,6 @@
 title: About us
 date: 2018-11-15T02:02:50.000Z
 draft: false
-layout: hero
 lead: "ShefFood is the food partnership for Sheffield. We are a cross-sector partnership of local public agencies, businesses, academic and community organisations committed to working together to create a more sustainable food system for Sheffield."
 menu: 
     main:

@@ -5,17 +5,14 @@
   </div>
 </div>
 
-<div class="container">
+<div class="container mb-5">
   <article class="content">
     <main>
-      {{ if isset .Params "lead" }}
-      <p class="lead">
-        {{- .Params.Lead -}}
-      </p>
-      <hr/>
-      {{ end }}
-
       {{- .Content -}}
+
+      {{ if isset .Params "registration_url" }}
+        <a class="btn btn-primary" href={{ printf "%s" .Params.registration_url }} role="button">Register</a>
+      {{ end }}
     </main>
   </article>
 </div>

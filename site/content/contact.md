@@ -2,7 +2,6 @@
 title: 'Contact us'
 date: 2018-11-14T19:02:50-07:00
 draft: false
-layout: hero
 lead: "ShefFood comprises individuals, businesses and charities working to make food in Sheffield better."
 menu: 
     main:
