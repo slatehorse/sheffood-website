@@ -42,8 +42,8 @@ collections:
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime", required: false}
-      - {label: "Draft?", name: "draft", widget: "boolean", default: false}
-      - {label: "Lead-in", name: "lead", widget: "markdown", required: false}
+      - {label: "Draft?", name: "draft", widget: "boolean", required: false, default: false}
+      - {label: "Lead-in", name: "lead", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: Menu
         name: menu
@@ -63,10 +63,10 @@ collections:
     fields: # The fields for each document, usually in front matter
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Draft?", name: "draft", widget: "boolean", default: false}
+      - {label: "Draft?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Event Start", name: "start_time", widget: "datetime"}
       - {label: "Event End", name: "end_time", widget: "datetime"}
       - {label: "Location", name: "location", widget: "string"}
-      - {label: "Price", name: "location", widget: "string", default: "Free"}
+      - {label: "Price", name: "price", widget: "string", default: "Free"}
       - {label: "Registration URL", name: "registration_url", widget: "string"}
       - {label: "Event details", name: "body", widget: "markdown"}
