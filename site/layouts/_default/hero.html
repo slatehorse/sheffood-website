@@ -8,10 +8,12 @@
 <div class="container">
   <article class="content">
     <main>
+      {{ if isset .Params "lead" }}
       <p class="lead">
         {{- .Params.Lead -}}
       </p>
       <hr/>
+      {{ end }}
 
       {{- .Content -}}
     </main>
