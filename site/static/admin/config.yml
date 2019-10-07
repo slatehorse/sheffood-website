@@ -54,9 +54,7 @@ collections:
             widget: object
             fields:
               - {label: Weight, name: weight, widget: number, valueType: "int", step: 10}
-      menu: 
-    main:
-        weight: 30
+
   - name: "events" # Used in routes, e.g., /admin/collections/blog
     label: "Events" # Used in the UI
     folder: "site/content/events" # The path to the folder where the documents are stored
