@@ -1,11 +1,11 @@
 ---
 title: Sheffood Award Accelerator
-date: 2019-05-24
-start_time: 09.30
-end_time: 16.30
+draft: false
+start_time: 2019-05-24T08:30:00.000Z
+end_time: 2019-05-24T15:30:00.000Z
 location: Millennium Gallery
-price: Free
-registration_url: https://www.eventbrite.co.uk/e/the-sheffood-award-accelerator-registration-61504506635
+registration_url: >-
+  https://www.eventbrite.co.uk/e/the-sheffood-award-accelerator-registration-61504506635
 ---
 
 ## What is the ShefFood Award Accelerator?
