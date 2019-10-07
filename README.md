@@ -19,6 +19,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 - [ ] Contact page - social links
 
 - [ ] Events – list in CMS
+- [ ] Events – include frontmatter metadata in templates
 
 ## To check with the team
 
