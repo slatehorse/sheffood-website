@@ -18,7 +18,7 @@
       {{ .Content }}
 
       {{ range first 10 .Pages }}
-        <h1><a href="{{.Permalink}}" class="text-reset">{{.Title}} <small class="text-muted">{{.start_time.Format "02-01-2006"}}</small></a></h1>
+        <h1><a href="{{.Permalink}}" class="text-reset">{{.Title}} <small class="text-muted">{{/*.start_time.Format "02-01-2006"*/}}</small></a></h1>
 
         {{/* .Content is the entire post, .Summary shows a truncated portion */}}
         {{ .Content }}

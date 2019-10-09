@@ -21,16 +21,38 @@
   }
 }
 
+$twitter-blue: #1DA1F2;
+$facebook-blue: #3C5A99;
+$pinterest-red: #BD081C;
+
 .twitter-background {
-  background-color: #1DA1F2;
+  color: #fff;
+  background-color: $twitter-blue;
+
+    &:hover {
+    color: black;
+    background-color: lighten($twitter-blue, 20%);
+  }
 }
 
 .facebook-background {
-  background-color: #3C5A99;
+  color: #fff;
+  background-color: $facebook-blue;
+
+  &:hover {
+    color: black;
+    background-color: lighten($facebook-blue, 20%);
+  }
 }
 
 .pinterest-background {
-  background-color: #BD081C;
+  color: #fff;
+  background-color: $pinterest-red;
+
+  &:hover {
+    color: black;
+    background-color: lighten($pinterest-red, 20%);
+  }
 }
 
 .footer {

@@ -11,7 +11,7 @@ menu:
 ---
 There is the shared vision and strategic commitment to develop the environmental and economic benefits of a more resilient and sustainable food system for the Sheffield City Region. A wide range of individuals and organisations are currently involved in this next exciting phase of developing a sustainable food system for Sheffield. If you would like to find out more, or get involved please get in touch.
 
-<form name="contact" method="POST" data-netlify="true" action="/pages/form_submitted">
+<form name="contact" method="POST" data-netlify="true" action="/pages/form_submitted" class="mb-5">
   <div class="form-group">
     <label for="name"">Your name</label>
     <input type="text" required class="form-control" id="name" name="name" placeholder="Enter your name">

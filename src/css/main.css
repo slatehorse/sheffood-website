@@ -4,6 +4,8 @@
 @import 'imports/reset.css';
 @import 'imports/sheffood_variables';
 @import 'bootstrap';
+/*$fa-font-path: "~font-awesome/fonts";
+@import "@fortawesome/fontawesome-free/scss/brands";*/
 @import 'imports/sheffood';
 @import 'imports/sheffood_bubble_diagram'
 
