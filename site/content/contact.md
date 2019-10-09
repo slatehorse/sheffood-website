@@ -31,5 +31,3 @@ There is the shared vision and strategic commitment to develop the environmental
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-
-TODO: social links
