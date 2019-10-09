@@ -8,19 +8,18 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 
 ## To do
 
+
+
+- [ ] Check CMS doesn't prompt for draft every time
+
+- [ ] Contact page - social links
+- [ ] Events – include frontmatter metadata in templates
 - [ ] README
     - contact form (Review submissions at https://app.netlify.com/sites/friendly-keller-6bc5e3/forms/5d985d459d5c5600089a3b04)
     - ID
     - editing - GH
     - editing Netlify
-
-- [ ] Fix netlify editor wiping sustainable cities frontmatter
-
-- [ ] Contact page - social links
-
-- [ ] Events – list in CMS
-- [ ] Events – include frontmatter metadata in templates
-
+    
 ## To check with the team
 
 - [ ] 2-column layout change in About/Contact/Sustainable cities
