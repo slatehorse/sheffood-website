@@ -2,6 +2,9 @@
 title: Sustainable food cities
 date: 2019-05-01T01:02:50.000Z
 draft: false
+menu:
+  main:
+    weight: 30
 ---
 ![Sheffield is a network member of Sustainable Food Cities](/images/sustainablefoodcity_400px.png "Sheffield is a network member of Sustainable Food Cities")
 
