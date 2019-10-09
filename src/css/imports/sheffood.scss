@@ -13,6 +13,14 @@
     background-attachment: fixed;
 }
 
+.content{
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .footer {
   /* expand the footer on short pages so there's no white underneath */
   background-color: $sheffood_grey;
