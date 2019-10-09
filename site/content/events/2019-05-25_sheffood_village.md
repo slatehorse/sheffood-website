@@ -1,8 +1,7 @@
 ---
 title: Sheffood Village
-date: 2019-05-25
-start_time: 11.00
-end_time: 18.00
+start_time: 2019-05-25T10:30:00.000Z
+end_time: 2019-05-24T17:00:00.000Z
 location: Millennium Square
 price: Free
 ---

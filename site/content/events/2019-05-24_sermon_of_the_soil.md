@@ -1,8 +1,8 @@
 ---
 title: "Sermon of the Soil: Soil Degradation & The Unfolding Global Disaster"
 date: 2019-05-24
-start_time: "18.00"
-end_time: "19.00"
+start_time: 2019-05-24T17:00:00.000Z
+end_time: 2019-05-24T18:00:00.000Z
 location: Millennium Gallery
 price: Free
 registration_url: https://events.ticketsforgood.co.uk/events/1152-festival-of-debate-sermon-of-the-soil-soil-degradation-theunfolding-global-disaster

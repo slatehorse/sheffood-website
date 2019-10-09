@@ -1,6 +1,5 @@
 ---
 title: Sheffood Award Accelerator
-draft: false
 start_time: 2019-05-24T08:30:00.000Z
 end_time: 2019-05-24T15:30:00.000Z
 location: Millennium Gallery
