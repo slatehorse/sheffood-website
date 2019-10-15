@@ -6,7 +6,7 @@
 </div>
 
 <div class="container">
-  <article class="content">
+  <article class="content event-list">
     <main>
       {{ if isset .Params "lead" }}
       <p class="lead">
@@ -18,7 +18,15 @@
       {{ .Content }}
 
       {{ range first 10 .Pages }}
-        <h1><a href="{{.Permalink}}" class="text-reset">{{.Title}} <small class="text-muted">{{/*.start_time.Format "02-01-2006"*/}}</small></a></h1>
+        <h1><a href="{{.Permalink}}" class="text-reset">  
+          {{.Title}} 
+
+          {{ $start_date := (dateFormat "02/01/2006" .Params.start_time) }}
+          <small class="text-muted">{{ $start_date }}</small>
+
+        </a></h1>
+        <span class="badge badge-info">{{ .Params.price }}</span>
+        <span class="badge badge-light">{{ .Params.location }}</span>
 
         {{/* .Content is the entire post, .Summary shows a truncated portion */}}
         {{ .Content }}

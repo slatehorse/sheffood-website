@@ -55,6 +55,20 @@ $pinterest-red: #BD081C;
   }
 }
 
+.event-list {
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+}
+
 .footer {
   /* expand the footer on short pages so there's no white underneath */
   background-color: $sheffood_grey;

@@ -1,6 +1,5 @@
 ---
 title: "Sermon of the Soil: Soil Degradation & The Unfolding Global Disaster"
-date: 2019-05-24
 start_time: 2019-05-24T17:00:00.000Z
 end_time: 2019-05-24T18:00:00.000Z
 location: Millennium Gallery
