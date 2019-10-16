@@ -1,30 +1,18 @@
+title = "Sheffood – Sheffield's Food Partnership"
 baseurl = "/"
 languageCode = "en-gb"
 languageLang = "en"
-title = "Sheffood – Sheffield's Food Network"
 
-
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
-
-[params]
-  contact_email = "info@sheffood.org.uk"
-  forum_url = "https://forum.sheffood.org.uk/categories"
-  homepage_leadin = """
-  There is the shared vision and strategic commitment to develop the environmental and economic benefits of a more resilient and sustainable food system for the Sheffield City Region. A wide range of individuals and organisations are currently involved in this next exciting phase of developing a sustainable food system for Sheffield. If you would like to find out more, or get involved please get in touch
-  """
 [menu]
 
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = -110
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = -110
 
-  [[menu.main]]
-    identifier = "forum"
-    name = "Forum"
-    url = "https://forum.sheffood.org.uk/categories"
-    weight = 40
+[[menu.main]]
+identifier = "forum"
+name = "Forum"
+url = "https://forum.sheffood.org.uk/categories"
+weight = 40
