@@ -3,6 +3,11 @@ baseurl = "/"
 languageCode = "en-gb"
 languageLang = "en"
 
+[params]
+contact_email = "info@sheffood.org.uk"
+forum_url = "https://forum.sheffood.org.uk/categories"
+homepage_leadin = " There is the shared vision and strategic commitment to develop the environmental and economic benefits of a more resilient and sustainable food system for the Sheffield City Region. A wide range of individuals and organisations are currently involved in this next exciting phase of developing a sustainable food system for Sheffield. If you would like to find out more, or get involved please get in touch"
+
 [menu]
 
 [[menu.main]]
