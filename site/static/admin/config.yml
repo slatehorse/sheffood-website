@@ -16,14 +16,21 @@ collections:
         name: "site"
         file: "site/config.toml"
         fields:
-           - {label: Site Title, name: title, widget: string}
-           - {label: Base URL, name: baseurl, widget: string}
-           - {label: Language Code, name: languageCode, widget: string}
-           - {label: Language, name: languageLang, widget: string}
-           - label: Menu
-             name: menu
-             widget: object
-             fields:
+          - {label: Site Title, name: title, widget: string}
+          - {label: Base URL, name: baseurl, widget: string}
+          - {label: Language Code, name: languageCode, widget: string}
+          - {label: Language, name: languageLang, widget: string}
+          - label: Sheffood options
+            name: params
+            widget: object
+            fields:
+              - {label: Contact email, name: contact_email, widget: string}
+              - {label: Forum URL, name: forum_url, widget: string}
+              - {label: Homepage leadin text, name: homepage_leadin, widget: string}
+          - label: Menu
+            name: menu
+            widget: object
+            fields:
               - label: Navbar
                 name: main
                 widget: list
