@@ -25,7 +25,3 @@ We are working towards a Sustainable Food Cities Award for Sheffield by taking a
 4. Promoting a vibrant and diverse sustainable food economy
 5. Transforming catering and food procurement
 6. Reducing waste and the ecological footprint of the food system
-
-## This is a new section
-
-Here's some more content
