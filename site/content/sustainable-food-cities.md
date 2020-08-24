@@ -1,5 +1,5 @@
 ---
-title: Sustainable food cities
+title: Sustainable Food Cities
 date: 2019-05-01T01:02:50.000Z
 draft: false
 menu:
