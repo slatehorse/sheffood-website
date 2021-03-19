@@ -6,7 +6,7 @@ menu:
   main:
     weight: 30
 ---
-![Sheffield is a network member of Sustainable Food Cities](/images/sustainablefoodcity_400px.png "Sheffield is a network member of Sustainable Food Cities")
+![Sheffield is a network member of Sustainable Food Cities](/images/sheffield-for.png "Sheffield is a network member of Sustainable Food Cities")
 
 ## The Challenge
 
