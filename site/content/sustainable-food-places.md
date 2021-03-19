@@ -8,6 +8,8 @@ menu:
 ---
 ![Sheffield is a network member of Sustainable Food Cities](/images/sheffield-for.png "Sheffield is a network member of Sustainable Food Cities")
 
+> See our updated executive summary [here](/files/sheffood_food_partnership_development_strategy_2021_exec_summary.pdf)
+
 ## The Challenge
 
 The food we rely upon every day is a product of a complex, interdependent and globalised supply chain dominated by relatively few multinational corporations. They maintain this unsustainable system by exploiting a monopoly of money and power to influence governments, damage the environment and maximise profits out of producers and consumers. The evidence shows this unsustainable system contributes to (and is vulnerable to) the impacts of climate change, depletion of resources such as oil, phosphorus, soil and water, pressures of population growth and geo-political instability such as austerity and post-Brexit uncertainty. As a consequence, the UK and Sheffield food system is impacted in a range of ways, including for example:
