@@ -3,7 +3,7 @@ title: "Food is our Common Language "
 draft: false
 start_time: 2021-04-16T08:00:00.000Z
 end_time: 2021-04-16T16:30:00.000Z
-location: https://eu.bbcollab.com/collab/ui/session/guest/f3a1cb97c73d4f8fbf710571b0842d73
+location: "Virtual workshop "
 price: Free
 registration_url: https://www.eventbrite.co.uk/e/food-is-our-common-language-tickets-145048669475
 ---
