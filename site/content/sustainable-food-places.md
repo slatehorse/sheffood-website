@@ -6,22 +6,32 @@ menu:
   main:
     weight: 30
 ---
-
 <img src="/images/sheffield-for.png" width="400" height="400" align="middle" />
 
 **View the Partnership Development Strategy 2021 [here](/files/sheffood_food_partnership_development_strategy_2021_exec_summary.pdf)**
 
-## The Challenge
+# Bronze Award
 
-The food we rely upon every day is a product of a complex, interdependent and globalised supply chain dominated by relatively few multinational corporations. They maintain this unsustainable system by exploiting a monopoly of money and power to influence governments, damage the environment and maximise profits out of producers and consumers. The evidence shows this unsustainable system contributes to (and is vulnerable to) the impacts of climate change, depletion of resources such as oil, phosphorus, soil and water, pressures of population growth and geo-political instability such as austerity and post-Brexit uncertainty. As a consequence, the UK and Sheffield food system is impacted in a range of ways, including for example:
+Sustainable Food Places (SFP) is a partnership programme that supports places across the UK on their journey towards creating sustainable, equitable and healthy food systems. The programme runs an award scheme which recognises places who are undertaking this journey, with the opportunity to win Bronze, Silver and Gold Awards.
 
-* Food Sovereignty – the UK currently produces less than 60% of the food we consume, relies on the EU for nearly 30% of food imports and holds only 3-5 days of food supplies in reserve.
-* Food Waste – it is estimated that UK households waste 7 million tonnes of food and drink each year, costing an annual average £470 per household. Most of this waste could be avoided.
-* Health Inequality & Food – access to healthy food is a key factor determining the extent of health inequality across different parts of Sheffield, with life expectancy gaps and adult obesity rates amongst the highest in England.
-* Poverty & Food – over the past 5 years many food banks have opened in Sheffield, with benefit delays, low income and benefit changes being the most common reasons for accessing food bank services.
+Sheffield has a plethora of action across SFP's 6 key issues which can be used to evidence a coherent Brzone application. There are multiple benefits to receiving this award, with the primary being to recognise and celebrate the citywide action that is happening to create a more sustainable, equitable and healthy food system for Sheffield. 
 
-Developing a sustainable food system for Sheffield is a huge challenge. But thankfully - true to their character – the people of Sheffield are still rising to this challenge. Since the mid-1980s there have been progressive food plans, strategies and policies developed on an understanding that local government, the NHS, universities, business and Sheffield communities must all work together in partnership to create the lasting change needed. This important work continues - today and into the future.
+We also hope, if Sheffield receives the Bronze Award, to apply for the Bronze-to-Silver grant, which would help ShefFood **support, amplify, coordinate and deliver** further action across the city and instigate systematic change to our food system, with the help of all our partners and the Sheffield community. 
 
-A renewed energy and enthusiasm is present in Sheffield communities where decades of amazing local food work continues to blossom. A major challenge ahead is to turn post-Brexit price increases, farm labour shortages and market volatility into opportunities for the community economic development of urban and peri-urban horticultural enterprise – intensively grown organic fruit and vegetables, developing skills and community resources, creating local employment and promoting sustainable local economies.
+**We are working on the finishing touches to our Bronze Application and hope to submit it by 30th April 2021.** The finished document will be available to view.
 
-There is the shared vision and strategic commitment to develop the environmental and economic benefits of a more resilient and sustainable food system for the Sheffield City Region. So - could the next planned step be to demand the regional devolution of a post-Brexit agricultural policy? A policy which could be developed and resourced to support environmentally, socially and economically resilient mixed farming systems and land based industries – creating a truly productive landscape for Sheffield.
+# Sustainable Food Places
+
+The SFP application form breaks down a sustainable, healthy and equitable food system into six key issues. To achieve the award we have researched, contacted and collaborated with organisations and communities across Sheffield to highlight how Sheffield is tackling each key issue. These being;  
+
+1. Taking a strategic and collaborative approach to good food governance and action.
+
+2. Building public awareness, active food citizenship and a local good food movement 
+
+3. Tackling food poverty and diet related ill-health and increasing access to affordable healthy food.
+
+4. Creating a vibrant, prosperous and diverse sustainable food economy. 
+
+5. Transforming catering and procurement and revitalizing local and sustainable food supply chains.
+
+6. Tackling the climate and nature emergency through sustainable food & farming and an end to food waste
