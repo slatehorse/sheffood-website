@@ -6,9 +6,10 @@ menu:
   main:
     weight: 30
 ---
-![Sheffield is a network member of Sustainable Food Cities](/images/sheffield-for.png "Sheffield is a network member of Sustainable Food Cities")
 
-> See our updated executive summary [here](/files/sheffood_food_partnership_development_strategy_2021_exec_summary.pdf)
+<img src="/images/sheffield-for.png" width="400" height="400" align="middle" />
+
+**View the Partnership Development Strategy 2021 [here](/files/sheffood_food_partnership_development_strategy_2021_exec_summary.pdf)**
 
 ## The Challenge
 
