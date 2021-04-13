@@ -15,9 +15,3 @@ identifier = "home"
 name = "Home"
 url = "/"
 weight = -110
-
-[[menu.main]]
-identifier = "forum"
-name = "Forum"
-url = "https://forum.sheffood.org.uk/categories"
-weight = 40
