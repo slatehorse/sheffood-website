@@ -16,28 +16,28 @@ Although we encourage anyone to get involved with ShefFood's mission, there is a
 
 # Core Partners
 
-### **[Regather](https://regather.net/)**
+#### **[Regather](https://regather.net/)**
 
-### **[Heeley City Farm](https://www.heeleyfarm.org.uk/)**
+#### **[Heeley City Farm](https://www.heeleyfarm.org.uk/)**
 
-### **[Food Works](https://thefoodworks.org/)**
+#### **[Food Works](https://thefoodworks.org/)**
 
-### **[Green City Action](https://www.facebook.com/GreenCityAction/)**
+#### **[Green City Action](https://www.facebook.com/GreenCityAction/)**
 
-### **[Sheffield Climate Alliance](https://www.sheffieldclimatealliance.net/)**
+#### **[Sheffield Climate Alliance](https://www.sheffieldclimatealliance.net/)**
 
-### **[Food Hall](https://www.foodhallproject.org/)**
+#### **[Food Hall](https://www.foodhallproject.org/)**
 
-### **[Together for Sheffield](https://www.togetherforsheffield.co.uk/)**
+#### **[Together for Sheffield](https://www.togetherforsheffield.co.uk/)**
 
-### **[St Mary’s](https://www.stmarys-church.co.uk/)**
+#### **[St Mary’s](https://www.stmarys-church.co.uk/)**
 
-### **[Sheffield Food Bank Network](http://www.sheffieldfoodbank.org.uk/)**
+#### **[Sheffield Food Bank Network](http://www.sheffieldfoodbank.org.uk/)**
 
-### **[Opus](http://weareopus.org/?v=79cba1185463)**
+#### **[Opus](http://weareopus.org/?v=79cba1185463)**
 
-### **[Green New Deal South Yorkshire](https://www.facebook.com/Green-New-Deal-UK-South-Yorkshire-100629195061551/)**
+#### **[Green New Deal South Yorkshire](https://www.facebook.com/Green-New-Deal-UK-South-Yorkshire-100629195061551/)**
 
-### **[South Yorkshire Community Foundation](https://www.sycf.org.uk/)**
+#### **[South Yorkshire Community Foundation](https://www.sycf.org.uk/)**
 
 **Regather is the accountable body and employs a team of coordinators on behalf of the partnership.**
