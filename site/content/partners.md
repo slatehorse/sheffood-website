@@ -16,9 +16,8 @@ Although we encourage anyone to get involved with ShefFood's mission, there is a
 
 # Core Partners
 
-<div align="center">
 
- #### **[Regather](https://regather.net/)** 
+#### **[Regather](https://regather.net/)** 
 
 #### **[Heeley City Farm](https://www.heeleyfarm.org.uk/)**
 
@@ -42,6 +41,5 @@ Although we encourage anyone to get involved with ShefFood's mission, there is a
 
 #### **[South Yorkshire Community Foundation](https://www.sycf.org.uk/)**
 
-</div>
 
 **Regather is the accountable body and employs a team of coordinators on behalf of the partnership.**
