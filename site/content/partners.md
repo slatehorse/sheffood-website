@@ -42,6 +42,8 @@ Although we encourage anyone to get involved with ShefFood's mission, there is a
 
 <strong><a href="https://www.sycf.org.uk/">South Yorkshire Community Foundation</a></strong>
 
-</font></div>
+
 
 **Regather is the accountable body and employs a team of coordinators on behalf of the partnership.**
+
+</font></div>
