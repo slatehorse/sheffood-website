@@ -16,7 +16,7 @@ Although we encourage anyone to get involved with ShefFood's mission, there is a
 
 # Core Partners
 
-<div align="center" ><font size="12">
+<div align="center" ><font size="8">
 
 <strong><a href="https://regather.net/">Regather</a></strong>
 
