@@ -16,28 +16,32 @@ Although we encourage anyone to get involved with ShefFood's mission, there is a
 
 # Core Partners
 
-##### **[Regather](https://regather.net/)**
+<div align="center" >
 
-##### **[Heeley City Farm](https://www.heeleyfarm.org.uk/)**
+##### <strong><a href="https://regather.net/">Regather</a></strong>
 
-##### **[Food Works](https://thefoodworks.org/)**
+##### <strong><a href="https://www.heeleyfarm.org.uk/">Heeley City Farm</a></strong>
 
-##### **[Green City Action](https://www.facebook.com/GreenCityAction/)**
+##### <strong><a href="https://thefoodworks.org/">Food Works</a></strong>
 
-##### **[Sheffield Climate Alliance](https://www.sheffieldclimatealliance.net/)**
+##### <strong><a href="https://www.facebook.com/GreenCityAction/">Green City Action</a></strong>
 
-##### **[Food Hall](https://www.foodhallproject.org/)**
+##### <strong><a href="https://www.sheffieldclimatealliance.net/">Sheffield Climate Alliance</a></strong>
 
-##### **[Together for Sheffield](https://www.togetherforsheffield.co.uk/)**
+##### <strong><a href="https://www.foodhallproject.org/">Food Hall</a></strong>
 
-##### **[St Mary’s](https://www.stmarys-church.co.uk/)**
+##### <strong><a href="https://www.togetherforsheffield.co.uk/">Together for Sheffield</a></strong>
 
-##### **[Sheffield Food Bank Network](http://www.sheffieldfoodbank.org.uk/)**
+##### <strong><a href="https://www.stmarys-church.co.uk/">St Mary’s</a></strong>
 
-##### **[Opus](http://weareopus.org/?v=79cba1185463)**
+##### <strong><a href="http://www.sheffieldfoodbank.org.uk/">Sheffield Food Bank Network</a></strong>
 
-##### **[Green New Deal South Yorkshire](https://www.facebook.com/Green-New-Deal-UK-South-Yorkshire-100629195061551/)**
+##### <strong><a href="http://weareopus.org/?v=79cba1185463">Opus</a></strong>
 
-##### **[South Yorkshire Community Foundation](https://www.sycf.org.uk/)**
+##### <strong><a href="https://www.facebook.com/Green-New-Deal-UK-South-Yorkshire-100629195061551/">Green New Deal South Yorkshire</a></strong>
+
+##### <strong><a href="https://www.sycf.org.uk/">South Yorkshire Community Foundation</a></strong>
+
+</div>
 
 **Regather is the accountable body and employs a team of coordinators on behalf of the partnership.**
