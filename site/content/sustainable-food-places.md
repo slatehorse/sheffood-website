@@ -25,13 +25,10 @@ We also hope, if Sheffield receives the Bronze Award, to apply for the Bronze-to
 The SFP application form breaks down a sustainable, healthy and equitable food system into six key issues. To achieve the award we have researched, contacted and collaborated with organisations and communities across Sheffield to highlight how Sheffield is tackling each key issue. These being;  
 
 1. Taking a strategic and collaborative approach to good food governance and action.
-
 2. Building public awareness, active food citizenship and a local good food movement 
-
 3. Tackling food poverty and diet related ill-health and increasing access to affordable healthy food.
-
 4. Creating a vibrant, prosperous and diverse sustainable food economy. 
-
 5. Transforming catering and procurement and revitalizing local and sustainable food supply chains.
-
 6. Tackling the climate and nature emergency through sustainable food & farming and an end to food waste
+
+## [Take a lot at our Sustainable Food Page for more information.](https://www.sustainablefoodplaces.org/members/sheffield/#)
