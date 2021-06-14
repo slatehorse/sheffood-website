@@ -16,7 +16,7 @@ Although we encourage anyone to get involved with ShefFood's mission, there is a
 
 # Core Partners
 
-<div align="center" ><font size="8">
+<div align="center" ><font size="5">
 
 <strong><a href="https://regather.net/">Regather</a></strong>
 
@@ -41,8 +41,6 @@ Although we encourage anyone to get involved with ShefFood's mission, there is a
 <strong><a href="https://www.facebook.com/Green-New-Deal-UK-South-Yorkshire-100629195061551/">Green New Deal South Yorkshire</a></strong>
 
 <strong><a href="https://www.sycf.org.uk/">South Yorkshire Community Foundation</a></strong>
-
-
 
 **Regather is the accountable body and employs a team of coordinators on behalf of the partnership.**
 
