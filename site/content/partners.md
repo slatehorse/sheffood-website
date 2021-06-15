@@ -104,9 +104,15 @@ St-Marys Church works to tackle issues related to Food Poverty through their Tim
 
 <strong><a href="http://www.sheffieldfoodbank.org.uk/">Sheffield Food Bank Network</a></strong>
 
+</br>
+
 <strong><a href="http://weareopus.org/?v=79cba1185463">Opus</a></strong>
 
+</br>
+
 <strong><a href="https://www.facebook.com/Green-New-Deal-UK-South-Yorkshire-100629195061551/">Green New Deal South Yorkshire</a></strong>
+
+</br>
 
 <strong><a href="https://www.sycf.org.uk/">South Yorkshire Community Foundation</a></strong>
 
