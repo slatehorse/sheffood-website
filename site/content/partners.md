@@ -42,7 +42,7 @@ A lively community hub with activities delivered all year round. Alongside volun
 </div>
 
 <div align="center">
-<a href="https://thefoodworks.org/"> <img src="/images/" alt="Foodworks Logo" width="250" height="100"></a>
+<a href="https://thefoodworks.org/"> <img src="/images/foodworks.png" alt="Foodworks Logo" width="320" height="90"></a>
 </div>
 
 <div align="left" ><font size="4" style="font-family:Calibri" >
@@ -52,7 +52,7 @@ A lively community hub with activities delivered all year round. Alongside volun
 </div>
 
 <div align="center">
-<a href="https://www.facebook.com/GreenCityAction/"> <img src="/images/green-city-action.png" alt="Green City Action" width="100" height="100"></a>
+<a href="https://www.facebook.com/GreenCityAction/"> <img src="/images/GCA.png" alt="Green City Action" width="150" height="150"></a>
 </div>
 
 <div align="left" ><font size="4" style="font-family:Calibri" >
@@ -100,21 +100,40 @@ St-Marys Church works to tackle issues related to Food Poverty through their Tim
 
 </div>
 
-<div align="center" ><font size="5" >
+<div align="center" >
 
-<strong><a href="http://www.sheffieldfoodbank.org.uk/">Sheffield Food Bank Network</a></strong>
+<strong><a href="http://www.sheffieldfoodbank.org.uk/"><img src="/images/Sheffield Food Bank Network.png" alt="Opus" width="200" height="150"></a></strong>
 
-</br>
+</div>
 
-<strong><a href="http://weareopus.org/?v=79cba1185463">Opus</a></strong>
+<div align="left" style="font-family:Calibri" ><font size="4" >
 
-</br>
+The Sheffield Food Bank network is a collaboration of Food banks across Sheffield. The network aims to reduce food poverty and offer access to emergency food supplies, which have been a life line to individuals throughout the COVId-19 pandemic.
 
-<strong><a href="https://www.facebook.com/Green-New-Deal-UK-South-Yorkshire-100629195061551/">Green New Deal South Yorkshire</a></strong>
+</div>
 
-</br>
+<div align="center" >
 
-<strong><a href="https://www.sycf.org.uk/">South Yorkshire Community Foundation</a></strong>
+<strong><a href="http://weareopus.org/?v=79cba1185463"><img src="/images/opus.png" alt="Opus" width="200" height="200"></a></strong>
+
+</div>
+
+<div align="left" style="font-family:Calibri" ><font size="4" >
+
+Opus works across independent, community and voluntary sector organisation to reach over 150,000 people a year through live events, broadcasting and publishing. Opus have regularly hosted the Festival of debate and conduct conversations around Sheffield. 
+
+</div>
+
+<div align="center" >
+
+<strong><a href="https://www.sycf.org.uk/"> <img src="/images/
+South Yokrhsire Copmmunity Foundation.png" alt="South Yorkshire's Community Foundation" width="200" height="90"> </a></strong>
+
+</div>
+
+<div align="left" style="font-family:Calibri" ><font size="4" >
+
+SYCF supports community action happening around Sheffield and distributes grants and funding to enable orginisations to increase their impact on thier local community. 
 
 </div>
 
