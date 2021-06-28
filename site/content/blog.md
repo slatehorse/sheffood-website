@@ -9,6 +9,8 @@ menu:
 ---
 ## **Farming Sheffield's Fringe:**  developing peri-urban agroecological food production around Sheffield and beyond.
 
+Fran Halsall, 28th June 2021. 
+
 On 7th July ShefFood are hosting the 'Farming Sheffield's Fringe' event, a collaboration with
 [Sustain](https://www.sustainweb.org/) , [Shared Assets](https://sharedassets.org.uk/) and the[ Land Workers Alliance](http://landworkersalliance.org.uk/). These organisations have come
 together to deliver the national '[Fringe Farming](https://www.sustainweb.org/foodandfarmingpolicy/fringe-farming-peri-urban-food-growing/)' programme. ........
