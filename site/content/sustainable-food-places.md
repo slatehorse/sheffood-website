@@ -12,15 +12,19 @@ menu:
 
 # Bronze Award
 
-Sustainable Food Places (SFP) is a partnership programme that supports places across the UK on their journey towards creating sustainable, equitable and healthy food systems. The programme runs an award scheme which recognises places who are undertaking this journey, with the opportunity to win Bronze, Silver and Gold Awards.
+### Shef Food is proud to announce, Sheffield has received the Bronze Award from Sustainable Food Places!
 
-Sheffield has a plethora of action across SFP's 6 key issues which can be used to evidence a coherent Brzone application. There are multiple benefits to receiving this award, with the primary being to recognise and celebrate the citywide action that is happening to create a more sustainable, equitable and healthy food system for Sheffield. 
+We are delighted the plethora of good food-related action across Sheffield has achieved the Bronze Award and are proud of all of the organisations, people and companies working to tackle the 6 key issues within our food system.
 
-We also hope, if Sheffield receives the Bronze Award, to apply for the Bronze-to-Silver grant, which would help ShefFood **support, amplify, coordinate and deliver** further action across the city and instigate systematic change to our food system, with the help of all our partners and the Sheffield community. 
+As much as we love to celebrate, we're not stopping here. Our next goal will be to support, amplify, coordinate and deliver a food system in Sheffield that is worthy of the **Silver Award!** 
 
-**We are working on the finishing touches to our Bronze Application and hope to submit it by 30th April 2021.** The finished document will be available to view.
+As a partnership, we are aiming to bid for the Bronze-to-Silver Grant which we hope will enable further conversations, activity and change across Sheffield. It is vital, in this next step, to engage local government and public bodies. Through increased connections, we can mobilise more and encourage further positive action with Sheffield, within our local food system. 
+
+If you would like to help, email us at info@sheffood.org.uk.
 
 # Sustainable Food Places
+
+Sustainable Food Places (SFP) is a partnership programme that supports places across the UK on their journey towards creating sustainable, equitable and healthy food systems. The programme runs an award scheme which recognises places who are undertaking this journey, with the opportunity to win Bronze, Silver and Gold Awards.
 
 The SFP application form breaks down a sustainable, healthy and equitable food system into six key issues. To achieve the award we have researched, contacted and collaborated with organisations and communities across Sheffield to highlight how Sheffield is tackling each key issue. These being;  
 
@@ -31,4 +35,4 @@ The SFP application form breaks down a sustainable, healthy and equitable food s
 5. Transforming catering and procurement and revitalizing local and sustainable food supply chains.
 6. Tackling the climate and nature emergency through sustainable food & farming and an end to food waste
 
-## [Take a lot at our Sustainable Food Page for more information.](https://www.sustainablefoodplaces.org/members/sheffield/#)
+## [Take a look at Sheffield's Sustainable Food membership for more information.](https://www.sustainablefoodplaces.org/members/sheffield/#)
