@@ -23,8 +23,6 @@ You can watch the recording of the event [here](https://drive.google.com/file/d/
 
 Feedback from the audience is recorded within the [write up](https://drive.google.com/file/d/1gZxcwnw_acwLLscb9Y9JLx53P7TmLeYu/view?usp=sharing) of the event's closing group discussions.  
 
-\----------------------------------------------------------------------------------------------------------------
-
 The event launched with an introduction from the High Sheriff of South Yorkshire, Martin McKervey, who presented an overview of the topics to be addressed throughout the event.
 
 The first presentation was given by Rob Logan, Sustain's lead on Fringe Farming.   Entitled [Why farm the urban fringe?](https://drive.google.com/file/d/1AvC68gtGhUSXxyO_Rhrc7QPP_VIhrm5P/view?usp=sharing)  Rob introduced the economic, environmental and social case for prioritising agroecological food production at the city's edges.  This set the theme for the morning's session – understanding both the positive contributions made, and the challenges faced, when farming sustainably and at the smaller scales typical of this type of approach. 
