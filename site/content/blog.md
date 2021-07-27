@@ -7,7 +7,7 @@ menu:
   main:
     weight: -100
 ---
-## <!--StartFragment-->
+
 
 # Farming Sheffield's Fringe - 7th July 2021
 
@@ -46,8 +46,6 @@ The third and final session was wrapped up with a discussion, led by Gareth Robe
 On behalf of ShefFood we would like to offer our thanks and gratitude to everyone involved in making this event such a success, and to everyone who attended the event, both in person and online.
 
 ## **Together we can make our food system better!**
-
-<!--EndFragment-->
 
 # **Farming Sheffield's Fringe:**  developing peri-urban agroecological food production around Sheffield and beyond.
 
