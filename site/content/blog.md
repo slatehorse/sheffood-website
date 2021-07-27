@@ -5,7 +5,7 @@ draft: false
 lead: Keep up to date with exciting local stories, events, and information.
 menu:
   main:
-    weight: -100
+    weight: -50
 ---
 # Farming Sheffield's Fringe - 7th July 2021
 
