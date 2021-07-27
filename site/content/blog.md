@@ -7,8 +7,6 @@ menu:
   main:
     weight: -100
 ---
-
-
 # Farming Sheffield's Fringe - 7th July 2021
 
 ### Event report.
